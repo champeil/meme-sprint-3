@@ -1,0 +1,15 @@
+{
+  "name": "meme-sprint-3",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My AI agent went rogue — a chat-log meme for make.fun's Meme Sprint 3",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node main.ts",
+    "shot": "node shots.mjs"
+  }
+}
